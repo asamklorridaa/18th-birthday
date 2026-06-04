@@ -83,7 +83,7 @@ cd birthday18th
 Install dependencies:
 
 ```bash
-npm install
+pnpm install
 ```
 
 Create your environment file:
@@ -102,7 +102,7 @@ PUBLIC_SUPABASE_KEY=your_supabase_anon_key
 Run the development server:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 Open:
